@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavan-aiml&label=Profile%20views&color=0e75b6&style=flat" alt="pavan-aiml" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavan-aiml" alt="pavan-aiml" /></a> </p>
-
-- 🌱 I’m currently learning **Backend,**
+- 🌱 I’m currently learning **Backend,Computer vision and LLMs fro medical image processing.**
 
 - 📫 How to reach me **pavanln049@gmail.com**
 
