@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavan-aiml&label=Profile%20views&color=0e75b6&style=flat" alt="pavan-aiml" /> </p>
 
-- 🌱 I’m currently learning **Backend,Computer vision and LLMs fro medical image processing.**
+- 🌱 I’m currently learning **Backend,Computer vision and LLMs for medical image processing.**
 
 - 📫 How to reach me **pavanln049@gmail.com**
 
