@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **pavanln049@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1L5z0Y61t6Yc0Gn82zT-reeSWcqI3dU5N/view?usp=sharing](https://drive.google.com/file/d/1L5z0Y61t6Yc0Gn82zT-reeSWcqI3dU5N/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1L5z0Y61t6Yc0Gn82zT-reeSWcqI3dU5N/view?usp=sharing](https://drive.google.com/file/d/1gA51STHctPbM-_LfzP3jvpClpm-vlxtK/view?usp=sharing)]([https://drive.google.com/file/d/1L5z0Y61t6Yc0Gn82zT-reeSWcqI3dU5N/view?usp=sharing](https://drive.google.com/file/d/1gA51STHctPbM-_LfzP3jvpClpm-vlxtK/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
