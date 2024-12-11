@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pavan</h1>
-<h3 align="center">A passionate mathematics student at TUM focused on state-of-the-art tech ML /Cloud /LLM /Autonomous systems 👁️ </h3>
+<h3 align="center">A passionate mathematics student at TUM focused on state-of-the-art tech ML /Cloud /LLM /Computer vision 👁️ </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavan-aiml&label=Profile%20views&color=0e75b6&style=flat" alt="pavan-aiml" /> </p>
 
