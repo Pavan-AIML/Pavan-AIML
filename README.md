@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently doing projects related to **AI Backend,Computer vision, NLP and LLMs.**
 
-- 📫 How to reach me **pavanln049@gmail.com**
+- 📫 Please reach me via email **pavanln049@gmail.com**
 
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1gA51STHctPbM-_LfzP3jvpClpm-vlxtK/view?usp=sharing)
 
