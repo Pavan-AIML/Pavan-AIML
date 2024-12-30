@@ -7,7 +7,7 @@
 
 - 📫 Please reach me via email **pavanln049@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1gA51STHctPbM-_LfzP3jvpClpm-vlxtK/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1rcEotmBZ_hFFBwAbZeb8Q91o26IZtCnT/view?usp=sharing)
 
 <h3 align="left">Connect with me in Linked_in:</h3>
 <p align="left">
