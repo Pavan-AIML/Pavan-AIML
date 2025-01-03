@@ -9,7 +9,7 @@
 
 - 📄 CV -: [CV](https://drive.google.com/file/d/1rafM6U-sfTo1Zq58iVS1xkHbSn6fRRtj/view?usp=sharing)
 
-<h3 align="left">Connect with me in Linked_in:</h3>
+<h3 align="left"> Linked_in:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kumar-pavan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kumar-pavan" height="30" width="40" /></a>
 </p>
