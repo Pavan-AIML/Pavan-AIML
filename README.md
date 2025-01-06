@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pavan</h1>
 <h3 align="center">A passionate mathematics student at TUM. Currently doing my minor courses in  Optimization /ML /Cloud /GenAI(LLMs) /Computer vision 👁️ </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavan-aiml&label=Profile%20views&color=0e75b6&style=flat" alt="pavan-aiml" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavan-aiml&label=Profile%20views&color=0e75b6&style=flat" alt="pavan-aiml"/> </p>
 
 - 🌱 I’m currently doing projects related to **AI Backend,Computer vision, NLP and LLMs.**
 
