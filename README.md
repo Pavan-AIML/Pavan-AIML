@@ -7,7 +7,7 @@
 
 - 📫 Email -: **pavanln049@gmail.com**
 
-- 📄 CV -: [CV](https://drive.google.com/file/d/14BN98I1w56Pu2I80nM-y7uX29Zl8AQ1n/view?usp=sharing)
+- 📄 CV -: [CV](https://drive.google.com/file/d/19ClFx7MTd6Rl7voALWTzXeQODu1MfFbP/view?usp=sharing)
 
 <h3 align="left"> Linked_in:</h3>
 <p align="left">
