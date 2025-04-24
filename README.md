@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavan-aiml&label=Profile%20views&color=0e75b6&style=flat" alt="pavan-aiml" /> </p>
 
-- 📫 Email -: **pavanln049@gmail.com**
-
-- 📄 CV -: [CV](https://drive.google.com/file/d/1Gi7jnOR-AQPXH-6irIevShAS_jpjtaiu/view?usp=sharing)
 - Certificates -: [Mongo DB Atlas](https://drive.google.com/file/d/1zUUmJ9bExrMFKvVdWE1gNuMoZFaoD_Mk/view?usp=sharing), [TUM AI Makethon](https://drive.google.com/file/d/1v2nZMFiMjn-4oqtKIz4mTlVrO_qCMn92/view)
 
 <h3 align="left"> Linked_in:</h3>
