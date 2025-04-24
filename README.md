@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavan-aiml&label=Profile%20views&color=0e75b6&style=flat" alt="pavan-aiml" /> </p>
 
-- 🌱 I’m currently doing projects related to **AI Backend,Computer vision, NLP and LLMs.**
-
 - 📫 Email -: **pavanln049@gmail.com**
 
 - 📄 CV -: [CV](https://drive.google.com/file/d/1Gi7jnOR-AQPXH-6irIevShAS_jpjtaiu/view?usp=sharing)
